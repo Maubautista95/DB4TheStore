@@ -1,0 +1,28 @@
+{
+    "Productos":[
+        
+        {
+        "imagenURL": "https://raw.githubusercontent.com/Maubautista95/TheStore_IUD/main/Imagenes/cicla.jpg",
+        "nombre": "Bicicleta 4x4",
+        "precio": "$26.000"
+        },
+        {
+        "imagenURL": "https://raw.githubusercontent.com/Maubautista95/TheStore_IUD/main/Imagenes/gafas_de_sol.jpg",
+        "nombre": "Gafas de sol italianas",
+        "precio": "$12.000"
+        },
+        {
+        "imagenURL": "https://raw.githubusercontent.com/Maubautista95/TheStore_IUD/main/Imagenes/iphone.jpeg",
+        "nombre": "iPhone 12",
+        "precio": "$38.000"
+        },
+        {
+        "imagenURL": "https://raw.githubusercontent.com/Maubautista95/TheStore_IUD/main/Imagenes/comedor.jpeg",
+        "nombre": "Comedor",
+        "precio": "$140.000"
+        }
+    
+    ]
+ 
+}
+
